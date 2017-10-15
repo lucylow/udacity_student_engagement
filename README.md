@@ -1,6 +1,6 @@
 # Udacity Student Engagement and Project Completion 
 
-Given data about student enrollments on Udacity, an analysis was done to answer the questions below. The full analysis is under the file "student_engagement.ipynb". 
+Given data about student enrollments on Udacity, an analysis was done to answer the questions below. The full analysis is in the notebook "student_engagement.ipynb". 
 
 * What is the average amount of time it takes students to submit projects?
 * What factors influence the completion of projects?
