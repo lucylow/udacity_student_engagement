@@ -1,6 +1,6 @@
 # Udacity Student Project Completion Analysis 
 
-Dataset on correlations between project completion rates on Udacity and the following variables:
+Data analysis on correlations between project completion rates on Udacity and the following variables:
 1) Minutes engaged in a week
 2) Lessons completed in a week
 3) Number of days visiting the classroom in a week 
