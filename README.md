@@ -1,12 +1,22 @@
-# Udacity Student Engagement and Performance
+# Udacity Student Project Completion Analysis 
 
-Given data about student enrollments on Udacity, an analysis was done to answer the questions below. The full analysis is in the notebook "student_engagement.ipynb". 
+Dataset on correlations between project completion rates on Udacity and the following variables:
+1) Minutes engaged in a week
+2) Lessons completed in a week
+3) Number of days visiting the classroom in a week 
 
-* What is the average amount of time it takes students to submit projects?
-* What factors influence the completion of projects?
-* How much time does the average student spends on Udacity? Is there a correlation between time spent, engagement, and the completion rate of projects?
-* How many times does a student submit quizzes before they pass?
-* How does student engagement change over time? What are possible reasons students are quitting the platform?
+#### Prerequisites
+* IPython Notebook 
+* Python 2
+* Numpy
+* Matplotlib
+
+#### Getting Started 
+The full analysis is in the notebook "student_engagement.ipynb". 
+
+#### Acknowledgements 
+This dataset was homework from [Udacity's Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) course on the data analysis process and using pure python with few additional libraries. 
+
 _____
 
  
