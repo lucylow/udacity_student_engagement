@@ -1,4 +1,4 @@
-# Udacity Student Project Completion Analysis 
+# Student Project Completion Analysis 
 
 Data analysis on correlations between project completion rates on Udacity and the following variables:
 1) Minutes engaged in a week
