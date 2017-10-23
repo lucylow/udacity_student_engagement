@@ -12,7 +12,9 @@ Data analysis on correlations between project completion rates on Udacity and th
 * Matplotlib
 
 #### Getting Started 
-The full analysis is in the notebook "student_engagement.ipynb". 
+The full analysis is in the notebook [student_engagement.ipynb](https://github.com/lucylow/udacity_student_engagement/blob/master/student_engagement.ipynb
+). 
+
 
 #### Acknowledgements 
 This dataset was homework from [Udacity's Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) course on the data analysis process and using pure python with few additional libraries. 
